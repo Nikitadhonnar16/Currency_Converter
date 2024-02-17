@@ -3,6 +3,8 @@ Currency Converter App
 
 In this project, I have created a simple Currency Converter App using React JS, Javascirpt, CSS, Bootstrap and HTML.
 
+![](https://github.com/Nikitadhonnar16/Currency_Converter/blob/main/CurrencyConverterImage.png)
+
 ## To start a project ##
 > npm start
 
