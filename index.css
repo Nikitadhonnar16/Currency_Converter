@@ -1,0 +1,23 @@
+.convert
+{
+    padding: 10px;
+    border: 2px solid green;
+    background-color:#c4f1c7;
+    color: green;
+}
+
+.swap
+{
+    height: 50px;
+    width: 80px;
+    position: relative;
+    left: 36%;
+    
+}
+
+.dropdown
+{
+    width: 300px;
+    height: 40px;
+
+}
